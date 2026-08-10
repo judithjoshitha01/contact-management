@@ -241,7 +241,7 @@ export default function Home() {
             <div className="mb-8 flex items-end justify-between">
               <div>
                 <p className="text-xs uppercase tracking-[0.3em] text-slate-600">
-                  Your universe
+                  Your Contact
                 </p>
 
                 <h2 className="mt-2 text-2xl font-semibold">
@@ -250,7 +250,7 @@ export default function Home() {
               </div>
 
               <span className="text-xs text-slate-600">
-                {filtered.length} orbiting
+                {filtered.length} Contacts
               </span>
             </div>
 
