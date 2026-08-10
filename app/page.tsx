@@ -136,9 +136,6 @@ export default function Home() {
 
           <div>
             <div className="mb-5 flex items-center gap-3">
-              <div className="flex h-10 w-10 items-center justify-center rounded-2xl border border-violet-400/20 bg-violet-400/10 text-xl">
-              </div>
-
               <span className="text-xs tracking-[0.3em] text-slate-500">
                 CONTACT MANAGEMENT
               </span>
