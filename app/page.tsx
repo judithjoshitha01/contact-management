@@ -264,7 +264,7 @@ export default function Home() {
                 </div>
 
                 <h3 className="text-xl font-semibold">
-                  Nothing in your Contact yet
+                 No Connections yet
                 </h3>
 
                 <p className="mt-2 max-w-sm text-sm text-slate-500">
