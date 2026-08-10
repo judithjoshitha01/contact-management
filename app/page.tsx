@@ -241,11 +241,11 @@ export default function Home() {
             <div className="mb-8 flex items-end justify-between">
               <div>
                 <p className="text-xs uppercase tracking-[0.3em] text-slate-600">
-                  Your Contact
+                  Your Connections
                 </p>
 
                 <h2 className="mt-2 text-2xl font-semibold">
-                  My connections
+                  My Contacts
                 </h2>
               </div>
 
