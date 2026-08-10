@@ -243,10 +243,6 @@ export default function Home() {
                 <p className="text-xs uppercase tracking-[0.3em] text-slate-600">
                   Your Connections
                 </p>
-
-                <h2 className="mt-2 text-2xl font-semibold">
-                  My Contacts
-                </h2>
               </div>
 
               <span className="text-xs text-slate-600">
