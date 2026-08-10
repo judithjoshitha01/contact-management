@@ -168,7 +168,7 @@ export default function Home() {
         <section className="mb-8 grid gap-4 sm:grid-cols-3">
 
           <Stat
-            title="People in orbit"
+            title="People in the Network"
             value={contacts.length}
             icon="✦"
           />
@@ -264,12 +264,12 @@ export default function Home() {
                 </div>
 
                 <h3 className="text-xl font-semibold">
-                  Nothing in your orbit yet
+                  Nothing in your Contact yet
                 </h3>
 
                 <p className="mt-2 max-w-sm text-sm text-slate-500">
                   Add someone important and begin building
-                  your personal constellation.
+                  your personal network.
                 </p>
 
                 <button
@@ -320,7 +320,7 @@ export default function Home() {
                           </h3>
 
                           <p className="mt-1 text-xs text-slate-600">
-                            Orbit #{index + 1}
+                            Contact #{index + 1}
                           </p>
                         </div>
 
@@ -370,8 +370,8 @@ export default function Home() {
         </section>
 
         <p className="mt-6 text-center text-xs tracking-widest text-slate-700">
-          YOUR CONNECTIONS · YOUR CONSTELLATION
-        </p>
+          YOUR CONNECTIONS · YOUR NETWORK   
+       </p>
 
       </div>
 
@@ -388,7 +388,7 @@ export default function Home() {
 
               <div>
                 <p className="text-xs uppercase tracking-[0.25em] text-violet-400">
-                  {editing ? "Edit orbit" : "New orbit"}
+                  {editing ? "Edit Contact" : "New Contact"}
                 </p>
 
                 <h2 className="mt-2 text-2xl font-bold">
